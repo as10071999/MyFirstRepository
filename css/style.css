@@ -7,5 +7,10 @@ background-color: teal;
 width: inherit;
 height: 100px;
 text-align: center;
-
+margin: 30px;
+padding: 25px;
+font-family: Arial,sans-serif;
+font-size: 20px;
+font-weight: bold;
+border: 3px dotted red;
 }
