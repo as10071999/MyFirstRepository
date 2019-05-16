@@ -2,3 +2,10 @@ h1 {
   color: green;
   text-align: center;
 }
+div {
+background-color: teal;
+width: inherit;
+height: 100px;
+text-align: center;
+
+}
